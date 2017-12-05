@@ -11,7 +11,7 @@ public class SalesClass {
 	}
 	
 	public void sayHello(){
-		
+		System.out.println("Hello - Good Afternoon!");
 	}
 
 }
